@@ -1,0 +1,1 @@
+{"type":"mariadb","host":"localhost","port":3306,"username":"devel","password":"devel","database":"devel","entities":["src/domain/models/*.entity.{ts,js}"],"migrations":["src/migrations/**/*.ts"],"cli":{"migrationsDir":"src/migrations"}}
